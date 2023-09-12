@@ -1,0 +1,9 @@
+requests
+pandas
+openai
+apache-airflow
+langchain
+bs4
+simplegmail
+google-search-results
+# -e .
