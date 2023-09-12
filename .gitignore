@@ -137,4 +137,3 @@ subscriber_list.txt
 docker-compose.yml
 Dockerfile
 plugins/
-logs/
