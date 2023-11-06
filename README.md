@@ -1,5 +1,6 @@
 # GPT-NewsLetter
 *A fully automated AI generated Newsletter covering Macroeconomics and Stock Market News.*
+![](https://github.com/JanAazar/GPT-NewsLetter/blob/main/heatmap.PNG)
 
 ## Introduction
 The GPT NewsLetter project leverages the capabilities of AI and various APIs to create a daily newsletter that covers Macroeconomics and Stock Market-related topics. The project uses AI language generation to craft newsletter content, pulls relevant news from the New York Times "Top Stories" API, gathers stock ticker data from AlphaVantage API, and extracts insights from Langchain-connected GPT-4 model. The project also includes a daily market heatmap obtained through Google's Gmail API, extracted from stocktwits.com emails.
